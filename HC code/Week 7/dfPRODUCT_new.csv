@@ -1,0 +1,116 @@
+PRODUCT_NUMBER,INTRODUCTION_DATE,PRODUCT_TYPE_CODE,PRODUCTION_COST,MARGIN,PRODUCT_IMAGE,LANGUAGE,PRODUCT_NAME,DESCRIPTION
+53,2021-01-10,8.0,28.549999237060547,0.28,P53ME2CA8.jpg,EN,Firefly Climbing Lamp,"This climbing lamp is water-resistant. It comes with two bulbs, standard and halogen. Includes one 6V halogen bulb and one 6V standard bulb. Weight: 200g."
+54,2021-01-10,8.0,35.33000183105469,0.33,None,EN,Firefly Charger,"Power charger for the Firefly Climbing Lamp. The charger cannot overcharge the Firefly battery, so you can leave it in the charger without worrying."
+55,,8.0,4.0,0.5,P55ME2CA8.jpg,EN,Firefly Rechargeable Battery,"Rechargeable battery pack for the Firefly Climbing Lamp. Each charge gives 3 hours of light with a halogen bulb and 9 hours with standard bulb. Battery may be recharged up to 1,000 times."
+56,2021-01-10,8.0,9.0,0.5,None,EN,Granite Chalk Bag,Nylon web bag perfect for holding several sticks of chalk.
+57,2021-01-10,9.0,40.0,0.5,P57ME2TL9.jpg,EN,Granite Ice,A general purpose mountaineering axe for snow and glacier travel. Excellent mid-weight axe. Weight: 638 g
+58,2021-01-10,9.0,57.130001068115234,0.28,P58ME2TL9.jpg,EN,Granite Hammer,A solid hammer made with a solid hard wood handle and steel head.  Weight: 800g.
+59,2021-01-10,9.0,46.150001525878906,0.23,P59ME2TL9.jpg,EN,Granite Shovel,Shovel has removable aluminum handle and heat treated aluminum blade.
+60,2021-01-10,9.0,10.0,0.5,P60ME2TL9.jpg,EN,Granite Grip,"All-purpose stainless steel pliers. Sheath included. Length (closed) 12cm, (open) 16 cm. Weight: 200 g."
+61,2021-01-10,9.0,20.0,0.5,P61ME2TL9.jpg,EN,Granite Axe,Camping axe with clear coated wood handle.
+62,2021-01-10,9.0,47.060001373291016,0.4,P62ME2TL9.jpg,EN,Granite Extreme,"The Edge Extreme is a collapsible plier-shaped gadget, three knife blades, file and scissors, perfect for the outdoors.  Carrying case included."
+63,2011-02-15,10.0,30.0,0.33,P63PA3WT10.jpg,EN,Mountain Man Analog,"Padded leather strap, precision Swiss quartz movement, sweep second hand, 24-hour time ring, luminous hands and markers, hardened mineral crystal."
+64,2011-02-15,10.0,20.0,0.5,P64PA3WT10.jpg,EN,"Tough rubber strap, digital face, hardened crystal, water-resistant to 50 meters.",Mountain Man Digital
+65,2013-03-05,10.0,39.0,0.5,P65PA3WT10.jpg,EN,Mountain Man Deluxe,"Tough rubber strap, precision Swiss quartz movement, imbedded digital face, luminous hands and markers, hardened mineral crystal, start and stop buttons, water-resistant to 50 meters."
+66,2013-03-05,10.0,45.0,0.5,P66PA3WT10.jpg,EN,None,"Combination watch, altimeter, compass and barometric gauge.  Heavy duty rubber strap,  hardened mineral crystal."
+67,2016-10-26,10.0,0.0,,P67PA3WT10.jpg,EN,Mountain Man Extreme,0.00
+68,2011-02-15,11.0,46.150001525878906,0.23,P68PA3EW11.jpg,EN,Polar Sun,"The Polar Sun sunglasses have 3 mm thick lenses, which makes excellent protective eyewear for sport and safety."
+69,2011-02-15,,73.33000183105469,0.33,P69PA3EW11.jpg,EN,Polar Ice,Polar Ice sunglasses have polarized lenses to combat glare from snow. Unbreakable nylon frame.
+70,2013-03-05,11.0,80.0,0.33,None,EN,Polar Sports,Six base classic nylon composite frame sunglasses with wire core temples.
+71,2013-03-05,11.0,0.0,0.33,P71PA3EW11.jpg,EN,Polar Wave,0.00
+72,,11.0,72.5,0.5,P72PA3EW11.jpg,EN,NaT,Ideal for skiing and winter mountaineering. Frame is durable polyurethane with soft interior foam and adjustable woven elastic band providing an excellent fit. Weight: 139 g.
+73,2011-02-15,12.0,8.5600004196167,0.28,P73PA3KV12.jpg,EN,Single Edge,"Single stainless steel blade folding knife. Length: (closed) 5 cm, (blade) 4.5 cm. Blade thickness 2 mm.  Weight: 90 g."
+74,2011-02-15,12.0,11.430000305175781,0.28,P74PA3KV12.jpg,EN,Double Edge,"Double stainless steel blade folding knife. Length: (closed) 6 cm, (blades) 5.5 cm and 3 cm. Blade thickness: 2 mm. Weight: 110 g."
+75,2016-10-26,12.0,80.0,0.28,P75PA3KV12.jpg,EN,Edge Extreme,"Multi-purpose pocketknife ruggedly constructed of stainless steel.  Includes 4 different blades, corkscrew, saw, scissors, pliers and more."
+76,2011-02-15,12.0,23.530000686645508,0.4,P76PA3KV12.jpg,EN,Bear Edge,Knife is 33 cm long with a 20 cm blade made of surgical stainless steel. The handle is laminated wood. The custom made sheath is black leather.
+77,2016-10-26,12.0,45.0,0.5,P77PA3KV12.jpg,EN,Bear Survival Edge,Features a 23 cm razor edge blade tempered from a special blend of stainless steel. The hollow handle has a compartment containing survival gear including a compass. Overall length: 36cm.
+78,,13.0,79.19000244140625,0.2,P78PA3BN13.jpg,EN,Seeker 35,"This 7 x 35 model is economical and performs well optically. Fully coated lenses, compact and  lightweight. Rubber covered for secure and comfortable grip. Soft carrying case included."
+79,2011-02-15,13.0,92.58000183105469,0.25,P78PA3BN13.jpg,EN,Seeker 50,Rubber coated and ergonomically designed. The wide angle of view of 10 x 50 keeps more of your subject in view at high magnification. Soft carrying case included.
+80,2013-03-05,13.0,94.12000274658203,0.4,P80PA3BN13.jpg,EN,Seeker Extreme,"These ergonomic binoculars are light-weight and easy to hold.  Strong construction make them impervious to water, fog and thermal shocks. Soft carrying case included."
+81,2013-03-05,13.0,40.0,0.5,P81PA3BN13.jpg,EN,Seeker Mini,"This 8 x 22 model is economical and performs well optically. Fully coated lenses, compact and  light-weight. Rubber covered for secure and comfortable grip. Soft carrying case included."
+82,2013-03-05,14.0,0.0,0.33,P82PA3NV14.jpg,EN,Glacier Basic,Traditional magnetic compass in a stainless steel casing.
+83,2013-03-05,14.0,56.25,0.37,None,EN,Glacier Deluxe,Magnetic Compass has a large sighting mirror with v-notch allowing for quick acquisition and accurate bearings to distant landmarks.
+84,2013-03-05,14.0,78.55000305175781,0.28,None,EN,Glacier GPS,"Global Positioning System that is small, lightweight, and rugged. Incredibly easy to use, dedicated operation keys, and three user-friendly navigation screens."
+85,2015-06-12,14.0,176.47000122070312,0.4,P85PA3NV14.jpg,EN,Glacier GPS Extreme,"Hand held GPS receiver with color display. Incredibly easy to use, three user-friendly navigation screens, and saves two routes. Up to 20 hours of battery life just on two AA batteries."
+86,2011-02-15,15.0,2.0,0.67,P86OP4IR15.jpg,EN,BugShield Natural,"Contains no chemicals. Repels mosquitoes, black flies, biting midges, and fleas effectively. Safe for children and environmentally sound.  Active ingredient: Citronella 10%. 100 ml."
+87,2011-02-15,15.0,2.0,0.67,P86OP4IR15.jpg,EN,BugShield Spray,"Repels black flies, ticks, mosquitoes, chiggers, deer flies and stable flies. Protects against Lyme ticks. Contains 23.75% active ingredient. Clear, odorless formula. 100 ml."
+113,2020-01-15,21.0,6.0,0.5,P113GE5GA21.jpg,EN,None,Large red and white patterned golf umbrella.
+114,2019-12-15,,80.0,0.6,P114GE5GA21.jpg,EN,Course Pro Golf Bag,High quality golf bag that includes carrying strap and large front pocket.
+115,2019-12-27,21.0,5.0,0.5,P115GE5GA21.jpg,EN,Course Pro Gloves,Durable nylon constructed gloves with stitched leather palm.
+1,2011-02-15,1.0,4.0,0.33,P01CE1CG1.jpg,EN,TrailChef Water Bag,"Lightweight, collapsible bag to carry liquids easily.  Wide mouth for easy filling.  Holds 10 liters."
+2,2011-02-15,1.0,9.220000267028809,0.23,P02CE1CG1.jpg,EN,TrailChef Canteen,"Aluminum canteen. Rugged fleece-lined cover with belt clips, removable shoulder sling and small pocket for water purification tablets bottle. Holds 2 liters"
+3,2011-02-15,1.0,15.930000305175781,0.28,P03CE1CG1.jpg,EN,TrailChef Kitchen Kit,"Zippered nylon pouch contains cutlery for two, can opener, wire whisk, scrubber sponge, 2  60 ml squirt bottles, pancake turner and salt and pepper shaker.  Measures 10 x 22 x 5 cm."
+4,2011-02-15,1.0,5.0,0.28,P04CE1CG1.jpg,EN,TrailChef Cup,Tin cup. Holds 0.4 liters. Weight: 60 g
+5,2011-02-15,1.0,34.970001220703125,0.3,P05CE1CG1.jpg,EN,TrailChef Cook Set,All you will ever need on the trail.  Pot gripper and nylon carrying bag included.  1.5 and 2 liter pots with individual lids. Weight: 750 g.
+6,2013-03-05,1.0,85.11000061035156,0.28,P06CE1CG1.jpg,EN,TrailChef Deluxe Cook Set,"Cascade set features 1, 2, and 3 liter pots with individual lids that double as fry pans or plates. Pot gripper and nylon carrying bag included.  Weight: 1.4 kg."
+7,2011-02-15,1.0,46.38,0.28,,EN,TrailChef Single Flame,"A single burner stove with integral tank.  It features precise flame control so you will never have to settle for burnt camp food again.  Weight 624 g, fuel is white gas."
+8,2013-05-03,1.0,75.0,0.41,,EN,TrailChef Double Flame,"The TrailChef Double Flame is a camp stove which attaches directly to fuel canisters. Features precise flame control and a built-in windscreen.  Weight is 850 g, fuel is propane."
+9,2013-03-05,1.0,9.0,0.25,P09CE1CG1.jpg,EN,TrailChef Kettle,"This old-fashioned style kettle is made of durable enamel.  Weight: 350g, Holds 1.5 liters."
+10,,1.0,0.0,0.4,P10CE1CG1.jpg,10,TrailChef Utensils,"Spoon, fork and knife set made of a light yet strong metal alloy.  Carrying pouch included."
+11,2011-02-15,2.0,250.0,0.28,P11CE1TN2.jpg,EN,Star Lite,"A perfect tent for biking and hiking trips, compact and very light.  Features three shock cord aluminum poles, and three large mesh windows.  Packed size: 15 x 40 cm. Weight: 0.5 kg."
+12,2013-03-05,2.0,0.0,0.23,P12CE1TN2.jpg,EN,"Four pole geodesic dome mountain tent that comfortably fits two to three people. 10 mm aluminum poles, mesh pole sleeves and taped seams.  Packed size: 22 x 63 cm. Weight: 4.8 kg.",0.00
+13,2011-02-15,2.0,392.57000732421875,0.25,P13CE1TN2.jpg,EN,Star Gazer 2,The Star Gazer 2 is the Great Outdoor's most versatile tent.  It is a large two-person tent that is both durable and light weight.  Packed size: 18 x 70 cm. Weight: 2.6 kg.
+14,2013-03-05,2.0,476.0,0.2,P14CE1TN2.jpg,EN,Star Gazer 3,"The Star Gazer 3 features a water proof fly, mesh window and two doors for good ventilation.  Packed size: 20 x 70 cm. Weight: 5.3 kg."
+15,2013-05-03,2.0,490.0,0.33,,EN,Star Gazer 6,"Massive cabin tent has ample room for six people. Mesh door and vent, T-style door.  Four side windows with storm flaps and three carry bags for tent and poles."
+16,2013-03-05,2.0,1.0,0.5,P16CE1TN2.jpg,EN,Star Peg,"A single tent peg made of heavy-duty plated steel. Long enough even for hard, rocky ground. Length: 25 cm"
+17,2013-03-05,3.0,60.0,0.28,P17CE1SB3.jpg,EN,Hibernator Lite,The Hibernator Lite is the perfect summer sleeping bag.  Light weight and comfortable down to 10░C.  The rectangular shape allows for easy pairing.  Weight with stuff sack: 1.0 kg.
+18,2011-02-15,3.0,86.0,0.33,The Hibernator is a three-season sleeping bag. The rectangular shape allows for easy pairing. Nylon shell material.  8 cm loft.  Comfortable down to 0░C.  One size fits up to 195 cm.,EN,Hibernator,None
+19,2016-10-26,3.0,150.0,0.37,P19CE1SB3.jpg,EN,Hibernator Extreme,"The Hibernator Extreme has all the features you need for four-season comfort.  Comfortable from -18░ to 9░C. Silk comfort lining, nylon shell. Fits users to 195 cm, stuff sack included."
+20,2013-03-05,3.0,78.55000305175781,.28,P20CE1SB3.jpg,EN,,Mattress is made of extra-thick foam. Mesh stuff sack included for easy carrying and storage. Repair kit included.
+21,2011-02-15,3.0,29.170000076293945,0.17,P21CE1SB3.jpg,EN,Hibernator Pad,Warms up quickly for snow camping comfort. The Hibernator Pad will resist cracking in temperatures as low as -30░C.
+22,2011-02-15,3.0,10.0,0.33,P22CE1SB3.jpg,EN,Hibernator Pillow,"Camp pillow is filled with soft, luxurious fibers for maximum compactness and resiliency. Covered with soft cotton on one side and soft flannel on the other."
+23,2013-03-05,3.0,65.33000183105469,0.33,P23CE1SB3.jpg,EN,Hibernator Camp Cot,Aluminum frame camp cot that is lightweight and durable.  Size: 100 x 225 x 50 cm.  Weight: 7 kg.
+24,2013-03-05,4.0,62.5,0.17,P24CE1PK4.jpg,EN,Canyon Mule Climber Backpack,"This pack is perfect for day trips and short hikes. Also great for students.  Separate front compartment, multi-layered interior organizer, 2 cm waist belt, 32,000 cu. cm."
+25,2011-02-15,4.0,166.66000366210938,,P25CE1PK4.jpg,EN,Canyon Mule Weekender Backpack,"A weekend getaway requires this pack.  It features a large front compression pocket, harness and waist belt, foam molded back panel, vinyl covered gear loops.  50,000 cu. cm."
+26,2011-02-15,4.0,213.3300018310547,0.33,P26CE1PK4.jpg,EN,Canyon Mule Journey Backpack,"Set of three packs: handlebar pack, front pack and rear pack.  Designed to fit most mountain bikes.  Includes mounting hardware.  Total volume: 66,000 cu. cm."
+27,2013-03-05,4.0,238.8800048828125,0.43,P27CE1PK4.jpg,EN,Canyon Mule Extreme Backpack,"Perfect for long back country trips, this pack features an expandable front pocket, includes a large sleeping bag compartment, padded shoulder harness, back and waist belt. 90,000 cu. cm."
+28,2011-02-15,,24.0,0.2,None,EN,Canyon Mule Cooler,"A durable plastic cooler with hinged top, perfect for storing small items. Size:100 x 50 x 50 cm."
+29,2013-03-05,4.0,41.18000030517578,0.4,P29CE1PK4.jpg,EN,Canyon Mule Carryall,"This pack has a large capacity, perfect for carrying all your camping gear.  Solid metal zipper and leather bottom."
+30,2013-03-05,5.0,6.75,0.5,P30CE1LT5.jpg,EN,None,"Lightweight flashlight made from aircraft aluminum. Focusable beam, tail cap push button allows for single-handed operation. Uses two AA batteries, included."
+31,,5.0,7.5,,P31CE1LT5.jpg,EN,Firefly Mapreader,"Clip-on flashlight for map or book reading. Also comes with flexible fiber optic extension. Lightweight, uses only one AA battery, included."
+32,2011-02-15,5.0,0.0,0.33,P32CE1LT5.jpg,EN,Firefly 2,0.00
+33,2013-03-05,5.0,18.0,0.33,P33CE1LT5.jpg,EN,"Made of solid plastic construction, adjustable beam (flood to spot), Krypton bulb.  Uses four D batteries, included.",Firefly 4
+34,2016-10-26,5.0,28.1200008392334,0.37,P34CE1LT5.jpg,EN,Firefly Extreme,"The Firefly Extreme is under 15 cm long yet produces 7,000 candlepower using two lithium batteries and a Xenon bulb. Shock and water resistant. Weight: 135 g."
+35,2016-10-26,5.0,0.0,0.25,P35CE1LT5.jpg,EN,Firefly Multi-light,"This light can be used as either a flashlight or as a lamp. Uses two C batteries, included.  Burn time 7-8 hours. Water-resistant."
+36,2011-02-15,5.0,18.049999237060547,0.4,P36CE1LT5.jpg,EN,EverGlow Single,Light output approximates a 100 W bulb. Single mantle regulated. Porcelain dome. Uses 0.5 liter  propane cylinder (not included).
+37,2013-03-05,5.0,28.75,0.37,P37CE1LT5.jpg,EN,EverGlow Double,Light output approximates a 175 W bulb. Double mantle regulated. Porcelain dome. Uses 0.5 liter propane cylinder (not included).
+38,2013-03-05,5.0,20.0,0.33,P38CE1LT5.jpg,EN,EverGlow Kerosene,"One of the most dependable sources of light in an emergency, this lantern is always ready and doesn't need to be recharged. Cotton wick. Height: 30 cm."
+39,2013-03-05,5.0,40.630001068115234,0.37,P39CE1LT5.jpg,EN,EverGlow Butane,"Adjustable brightness control with auto ignition. Safely stores in its own protective case.  Approximate burn time 5 hours on one 0.25 liter butane canister, included."
+40,2011-02-15,5.0,17.969999313354492,0.28,P40CE1LT5.jpg,EN,EverGlow Lamp,"Perfect for in your tent, this lamp comes with a 6V battery.  Complete with shade and hanging hook."
+41,2021-01-10,5.0,0.0,0.23,P41CE1LT5.jpg,EN,Flicker Lantern,0.00
+42,2021-01-10,6.0,106.66000366210938,,P42ME2RP6.jpg,EN,Husky Rope 50,11 mm diameter standard rope. Length: 50 m.  Weight: 78 g per meter. Impact Force: 7.2 kN. Static Elongation: 7.8%. Number of UIAA Falls: 16.
+43,2021-01-10,6.0,126.66000366210938,0.33,P42ME2RP6.jpg,EN,Husky Rope 60,11 mm diameter standard rope. Length: 60 m.  Weight: 78 g per meter. Impact Force: 7.2 kN. Static Elongation: 7.8%. Number of UIAA Falls: 16.
+44,2021-01-10,6.0,231.11000061035156,0.33,P44ME2RP6.jpg,EN,Husky Rope 100,11 mm diameter standard rope. Length: 100 m.  Weight: 78 g per meter. Impact Force: 7.2 kN. Static Elongation: 7.8%. Number of UIAA Falls: 16.
+45,2021-01-10,6.0,383.32000732421875,0.33,P44ME2RP6.jpg,EN,Husky Rope 200,11 mm diameter standard rope. Length: 200 m.  Weight: 78 g per meter. Impact Force: 7.2 kN. Static Elongation: 7.8%. Number of UIAA Falls: 16.
+46,2021-01-10,7.0,52.86000061035156,0.28,P46ME2SY7.jpg,EN,Granite Climbing Helmet,"This UIAA approved helmet fits adults and kids, suitable for rock and alpine use."
+47,,7.0,44.83000183105469,,P47ME2SY7.jpg,EN,Husky Harness,One size fits all due to extensive waist belt adjustment and fully adjustable leg loops.
+48,2021-01-10,7.0,55.0,0.5,P47ME2SY7.jpg,EN,,One size fits all. Top of the range fully adjustable technical harness. Ultra high strength belay loop rated in excess of 30kN. Rear haul loop rated to 10kN.
+49,,7.0,16.5,0.5,P49ME2SY7.jpg,EN,Granite Signal Mirror,10-1-2021
+50,2021-01-10,8.0,2.0,0.5,P50ME2CA8.jpg,EN,Granite Carabiner,Made from 12 mm rod stock aluminum and a radius suitable for almost any rope size. Locks tight with almost any belay/rappel combination. Individually tested.
+51,2021-01-10,9.0,35.0,0.5,P51ME2CA8.jpg,EN,Granite Belay,The Granite Belay is an ingenious single rope belay device that uses carabiner movement to brake the rope.
+52,2021-01-10,8.0,19.0,0.5,P52ME2CA8.jpg,EN,Granite Pulley,None
+88,2011-02-15,15.0,0.0,0.7,P86OP4IR15.jpg,EN,BugShield Lotion Lite,"Repels black flies, ticks, mosquitoes, chiggers, deer flies and stable flies. Contains 8.75% active ingredient for a lighter application. Odorless cream. 100 ml."
+89,,15.0,2.5,0.63,P86OP4IR15.jpg,EN,BugShield Lotion,"Repels black flies, ticks, mosquitoes, chiggers, deer flies and stable flies. Protects against Lyme ticks. Contains 23.75% active ingredient. Odorless cream. 100 ml."
+90,2011-02-15,15.0,2.5,0.63,P86OP4IR15.jpg,EN,BugShield Extreme,"Highest amount of the active ingredient, 38%, for up to 10 hours of protection. Repels black flies, ticks, mosquitoes, deer flies and stable flies. Clear, odorless formula. 100 ml."
+91,2011-02-15,16.0,2.0,0.6,P91OP4SS16.jpg,EN,Sun Blocker,"Sun Blocker is waterproof and lasts up to eight hours. It contains natural skin conditioners and moisturizers, as well as titanium dioxide for the ultimate level of protection."
+92,2011-02-15,16.0,2.0,0.6,P91OP4SS16.jpg,EN,Sun Shelter Stick,"Easy to apply to your nose, lips, ears and other sensitive areas. Provides long-lasting protection from sun, wind and water to keep your skin soft and moist."
+93,2011-02-15,16.0,2.0,0.6,P91OP4SS16.jpg,EN,Sun Shelter 15,SPF 15 protects against all harmful rays.
+94,2011-02-15,16.0,2.0,0.6,P91OP4SS16.jpg,EN,Sun Shelter 30,SPF 30 provides maximum protection and is long-lasting.
+95,2011-02-15,16.0,3.0,0.5,P91OP4SS16.jpg,EN,Sun Shield,"PABA free sunscreen, SPF 30, poison oak and ivy protectant, waterproof, insect repellent against fleas, mosquitoes, deer ticks, gnats.  Moisturizer contains Vitamin E and Lanolin."
+96,2011-02-15,17.0,16.43000030517578,0.28,P96OP4FA17.jpg,EN,Compact Relief Kit,"A personal first aid kit is recommended for every outdoor hiker or camper. Contains basic wound management, advanced infectious control, and more. Size: 17 x 10 x 7 cm. Weight: 0.3 kg."
+97,,17.0,25.0,0.28,P96OP4FA17.jpg,EN,Deluxe Family Relief Kit,"A complete medical kit suitable for families with children.  Contains cough syrup, oral rehydration salts, advanced wound management, and more.  Size: 22 x 12 x 7 cm. Weight: 0.6 kg."
+98,2011-02-15,17.0,3.0,0.5,P98OP4FA17.jpg,EN,Calamine Relief,"Use the Calamine Relief for allergic skin reactions, helps combat itching and swelling."
+99,2011-02-15,17.0,2.0,0.6,P99OP4FA17.jpg,EN,None,"Perfect for minor burns and sunburn, the aloe vera provides quick relief."
+100,2011-02-15,17.0,3.0,0.5,P100OP4FA17.jpg,EN,Insect Bite Relief,The Insect Bite Relief helps the itching and swelling caused by most insect bites.
+101,2019-12-15,18.0,305.5400085449219,0.43,P101GE5IR18.jpg,EN,Hailstorm Steel Irons,Iron is 17-4 stainless steel.  Shafts are graphite with a frequency matched throughout the set. Includes 3 iron to Pitching Wedge.
+102,2019-12-10,,380.95001220703125,0.51,None,EN,Hailstorm Titanium Irons,Made entirely of pure titanium. The ultimate in golf club technology. Lightweight graphite shaft and light overall weight. Includes 3 iron to Pitching Wedge.
+103,2019-12-10,18.0,277.760009765625,0.43,P101GE5IR18.jpg,EN,Lady Hailstorm Steel Irons,Iron is 17-4 stainless steel.  Shafts are graphite with a frequency matched throughout the set. Includes 3 iron to Pitching Wedge.
+104,,18.0,333.32000732421875,0.51,P102GE5IR18.jpg,EN,NaT,Lady Hailstorm Titanium Irons
+105,2019-12-27,19.0,555.9000244140625,0.55,P105GE5WD19.jpg,EN,None,"Crafted of 6-4 titanium which is 40% lighter and 20% stronger than 17-4 steel.  Includes 3 Wood, 5 Wood and 12 degree driver."
+106,2019-12-05,19.0,536.0900268554688,0.43,P106GE5WD19.jpg,EN,Hailstorm Steel Woods Set,"These steel woods are manufactured to exact tolerances to ensure maximum transfer of energy between the club head and the golf ball. Includes 3 Wood, 5 Wood and 12 degree driver."
+107,2020-01-13,19.0,509.07000732421875,0.55,P105GE5WD19.jpg,EN,Lady Hailstorm Titanium Woods Set,"Crafted of 6-4 titanium which is 40% lighter and 20% stronger than 17-4 steel. Includes 3 Wood, 5 Wood and 12 degree driver."
+108,2019-12-27,19.0,472.2200012207031,0.43,None,EN,Lady Hailstorm Steel Woods Set,"These steel woods are manufactured to exact tolerances to ensure maximum transfer of energy between the club head and the golf ball. Includes 3 Wood, 5 Wood and 12 degree driver."
+109,2019-12-10,20.0,35.0,0.43,P109GE5PT20.jpg,EN,Course Pro Putter,High quality putter is cast  from a soft yellow brass alloy to give the putter its uniquely soft feel at impact.
+110,,20.0,60.0,0.5,P110GE5PT20.jpg,EN,NaT,This premium putter has copper mixed with lightweight aluminum for a smooth touch.
+111,2019-12-15,20.0,81.80000305175781,.55,,EN,Blue Steel Max Putter,Putter head is composed from a single piece of the softest carbon steel for optimum feel.
+112,2020-01-10,21.0,6.0,0.33,None,EN,Course Pro Golf and Tee Set,Set includes two premium golf ball and an assortment of wooden golf tees.
