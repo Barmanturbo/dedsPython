@@ -23,6 +23,7 @@ for prodid in answer:
     print(prodid)
     for review in reviews:
         review = re.sub('<br/>','', review)
+        review = re.sub('<br />','', review)
         productid.append(prodid)
         waardering.append(review.strip())
         wordcount.append(len(review.split()))
