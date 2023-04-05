@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 import re
 from bs4 import BeautifulSoup
-import csv
 
 response = requests.get("https://www.scoutshop.nl/outdoorkleding-en-schoenen/wandelschoenen-en-sokken?product_list_limit=all")
 
