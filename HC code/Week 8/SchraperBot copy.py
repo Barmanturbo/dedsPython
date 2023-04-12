@@ -39,7 +39,7 @@ def scrape_page(page):
                     print("Oopsie poopsie, I did a little woopsie")
 
 if __name__ == '__main__':
-    with open('Bol_com_reviews.csv', 'w', newline='', encoding='utf-16') as csvfile:
+    with open('Bol_com_reviews.csv', 'w', encoding='utf-16') as csvfile:
         csvfile.write('\ufeff')  # Add BOM for Excel compatibility
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         executor.map(scrape_page, range(1, 500))
