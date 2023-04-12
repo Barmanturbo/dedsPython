@@ -14,7 +14,7 @@ def scrape_page(page):
         if csvfile.tell() == 0:
             writer.writeheader()
         print('huidige pagina: ' + str(page))
-        url = f'https://www.bol.com/nl/nl/l/rugzakken/20701/?page={page}'
+        url = f'https://www.bol.com/nl/nl/l/outdoorschoenen/39510/?page={page}'
         response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 

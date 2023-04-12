@@ -20,7 +20,7 @@ def get_reviews(start_page, end_page):
 
         for page in range(start_page, end_page+1):
             print(f'huidige pagina: {page}')
-            url = f'https://www.bol.com/nl/nl/l/rugzakken/20701/?page={page}'
+            url = f'https://www.bol.com/nl/nl/l/outdoorschoenen/39510/?page={page}'
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -50,7 +50,7 @@ def get_reviews(start_page, end_page):
 
 threads = []
 num_pages = 500
-pages_per_thread = 10
+pages_per_thread = 100
 
 for i in range(0, num_pages, pages_per_thread):
     start_page = i+1
