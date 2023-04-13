@@ -11,7 +11,7 @@ lock = threading.Lock()
 
 def get_reviews(start_page, end_page):
     with open('Bol_com_reviews_metSterren.csv', 'a', encoding='utf-8', newline='') as csvfile:
-        fieldnames = ['name', 'review', 'image', 'rating']
+        fieldnames = ['name', 'review', 'image']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if start_page == 1:
             writer.writeheader()
@@ -34,8 +34,6 @@ def get_reviews(start_page, end_page):
                 visit_url = f'https://www.bol.com{url}'
                 response = requests.get(visit_url)
                 soup = BeautifulSoup(response.content, 'html.parser')
-                div_aria_tag = soup.find('div', {'class':'star-rating'}) #Aantal sterren van de review kan je niet letterlijk aflezen, maar in de ariaLabels staat het ook.
-                rating = div_aria_tag['aria-label']
                 image = soup.find('img', {'class': 'js_selected_image'})['src']
                 review_tags = soup.find_all('div', {'class': 'review__body'})
 
@@ -45,7 +43,7 @@ def get_reviews(start_page, end_page):
                     if review_id not in seen_reviews:
                         with lock:
                             try:
-                                writer.writerow({'name': name, 'review': review.replace('\uFFFD', ''), 'image': image.replace('\uFFFD', ''), 'rating':rating})
+                                writer.writerow({'name': name, 'review': review.replace('\uFFFD', ''), 'image': image.replace('\uFFFD', '')})
                                 seen_reviews.add(review_id)
                             except UnicodeEncodeError:
                                 print("Oopsie poopsie, I did a little woopsie")
