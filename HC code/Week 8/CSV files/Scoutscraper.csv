@@ -1,19 +1,20 @@
-ProductID,ReviewText,Wordcount
-9223,Top schoen wel een maat groter moeten bestellen vond ze vrij klein vallen,13
+ProductID,ReviewText,Wordcount,Sentiment
+9223,"Top schoen wel een maat groter moeten bestellen vond ze vrij klein vallen",13,1
 9223,"Deze Grisport Torino mid schoenen zitten zeer aangenaam. Wel is het bij veelvuldig gebruik op verhard wegdek aan te raden goede inlegzooltjes mee te bestellen. Maar dat is bij bijna alle wandelschoenen tegenwoordig.  Ook na de Haluxfalgus operatie kan ik deze schoenen goed dragen. Het ontstaat in elk geval niet als je bij deze schoenen de juiste maat draagt. 
 
 Ze vallen qua maat als fashionschoenen. Je eigen maat bestellen dus. 
 
 Schoenmakers kunnen ze goed verzopen, wat duurzaam is. Maar niet goedkoper dan nieuwe schoenen. Ik heb er 1,5 jaar 2 uur per dag op gelopen en gestaan. Nooit vermoeide voeten gehad, 8000 stappen dagelijks behaalt. 
 
-En in de EU (Italië) geproduceerd, dus weinig afstand afgelegd tussen de fabriek en jou",120
-9222,"Schoenen zijn lichtgewicht, lopen ontzettend lekker. Zijn makkelijk aan het uit- en aan te trekken.",15
-9215,"Om het jaar koop ik deze schoenen wel. ik vind ze enorm lekker lopen zelfs in de bergen  met sneeuw in Duitsland Oostenrijk en Zwitserland,  hou ik warme voeten en kan ik met een enkel beperking uren wandelen.  maat die koop past altijd precies, dus voor mij is dit de perfecte schoen.",52
-11577,Prima wandelschoen. Zat gelijk goed.,5
+En in de EU (Italië) geproduceerd, dus weinig afstand afgelegd tussen de fabriek en jou",120,1
+9222,"Schoenen zijn lichtgewicht, lopen ontzettend lekker. Zijn makkelijk aan het uit- en aan te trekken.",15,1
+9215,"Om het jaar koop ik deze schoenen wel. ik vind ze enorm lekker lopen zelfs in de bergen  met sneeuw in Duitsland Oostenrijk en Zwitserland,  hou ik warme voeten en kan ik met een enkel beperking uren wandelen.  maat die koop past altijd precies, dus voor mij is dit de perfecte schoen.",52,1
+9215,"Deze wandelschoenen voor het eerst gekocht. Ze dragen heel fijn. Lichtgewicht, goed ondersteunend en ook goed met zooltjes. Je loopt er zo op weg, zonder eerst in te moeten lopen. Ik ben zeer tevreden. Valt prima op maat.",38,1
+11577,"Prima wandelschoen. Zat gelijk goed.",5,1
 6823,"De originele Grisport veters zijn zeer slijtvast, echter geef ik toch maar 4 **** sterren en geen 5*****.
 
 Dit komt doordat de schoenveters geregeld opnieuw gestrikt moeten worden. Dit heb ik bij andere merken niet.
 
-Ik beveel ze aan wanneer je het niet erg vind ze geregeld opnieuw te moeten strikken.",51
-9561,Super sokken totaal geen blaren echt aanrader voor lange wandelingen,10
-11400,Leuk,1
+Ik beveel ze aan wanneer je het niet erg vind ze geregeld opnieuw te moeten strikken.",51,1
+9561,"Super sokken totaal geen blaren echt aanrader voor lange wandelingen",10,1
+11400,Leuk,1,1

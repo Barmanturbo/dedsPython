@@ -46,7 +46,7 @@ def get_reviews(start_page, end_page):
                                 writer.writerow({'name': name, 'review': review.replace('\uFFFD', ''), 'image': image.replace('\uFFFD', '')})
                                 seen_reviews.add(review_id)
                             except UnicodeEncodeError:
-                                print("Oopsie poopsie, I did a little woopsie")
+                                print("Unicode error has occurred. Oh No. Anyways, lets continue")
 
 threads = []
 num_pages = 400
