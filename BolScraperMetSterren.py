@@ -14,6 +14,7 @@ def get_reviews(start_page, end_page):
     with open('Bol_com_reviews_metSterren.csv', 'a', encoding='utf-8', newline='') as csvfile:
         fieldnames = ['name', 'review', 'image', 'sentiment']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
         if start_page == 1:
             writer.writeheader()
 
@@ -28,6 +29,8 @@ def get_reviews(start_page, end_page):
             product_tags = soup.find_all('li', {'class': 'product-item--column'})
 
             for tag in product_tags:
+
+
                 name = tag.find('span', {'class': 'truncate'}).text.strip()
                 url = tag.find('a', {'class': 'hit-area-listpage'})['href']
                 print (url)
@@ -36,33 +39,29 @@ def get_reviews(start_page, end_page):
                 response = requests.get(visit_url)
                 soup = BeautifulSoup(response.content, 'html.parser')
                 image = soup.find('img', {'class': 'js_selected_image'})['src']
+                #Get all review blocks
                 review_block = soup.find_all('li',{'class': 'review js-review'})
                 for block in  review_block:
-                    rating = re.findall('<div class="star-rating" role="text" aria-label="klantbeoordeling: (.+?) van de 5 sterren">' , block.text, re.S)
-                    sentiment = 0
-                    if rating == 4 or rating == 5:
-                        sentiment = 1
-                    elif rating == 1 or rating == 2:
-                        sentiment = -1
-                    else:
-                        sentiment = 0
+                    rating = str(re.findall('aria-label=\"klantbeoordeling: (.+?) van de 5 sterren\"' , str(block), re.S))
+                    print('Rating :')
+                    print(str(rating))
                     
                     review_tags = soup.find_all('div', {'class': 'review__body'})
-
+                    #And the review
                     for review_tag in review_tags:
                         review = review_tag.text.strip()
                         review_id = f"{name}__{review}"
                         if review_id not in seen_reviews:
                             with lock:
                                 try:
-                                    writer.writerow({'name': name, 'review': review.replace('\uFFFD', ''), 'image': image.replace('\uFFFD', ''), 'sentiment': sentiment})
+                                    writer.writerow({'name': name, 'review': review.replace('\uFFFD', ''), 'image': image.replace('\uFFFD', ''), 'sentiment': rating})
                                     seen_reviews.add(review_id)
                                 except UnicodeEncodeError:
                                     print("Unicode error has occurred. Oh No. Anyways, lets continue")
 
 threads = []
-num_pages = 400
-pages_per_thread = 80
+num_pages = 329
+pages_per_thread = 70
 
 for i in range(0, num_pages, pages_per_thread):
     start_page = i+1
@@ -73,3 +72,7 @@ for i in range(0, num_pages, pages_per_thread):
 
 for t in threads:
     t.join()
+
+jsonfile = open("jsonoutput.json", "w")
+jsonfile.write(json.loads(output_array))
+jsonfile.close()
