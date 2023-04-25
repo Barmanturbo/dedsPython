@@ -6,7 +6,7 @@ import os
 import threading
 
 # Open het invoerbestand voor lezen en het uitvoerbestand voor schrijven
-with open('C:\\Users\\Burto\\Downloads\\GO-databases DEDS-week 4 & 5\\HC code\\Week 8\\CSV files\\Bol_com_reviews_metSterren.csv', 'r') as infile,  open('uitvoer.csv', 'w', newline='') as outfile:
+with open('C:\\Users\\Burto\\Downloads\\GO-databases DEDS-week 4 & 5\\HC code\\Week 8\\CSV files\\Bol_com_reviews_metSterren.csv', 'r', encoding='utf-8') as infile,  open('uitvoer.csv', 'w', newline='') as outfile:
     reader = csv.reader(infile)
     #writer = csv.writer(outfile)
     Linklijst = []
