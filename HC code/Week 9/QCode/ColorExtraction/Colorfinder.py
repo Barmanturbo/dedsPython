@@ -5,6 +5,7 @@ import numpy as np
 import os
 from collections import Counter
 
+
 # Set the path to the folder containing the images
 folder_path = "./Fotofolder"
 
