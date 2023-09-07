@@ -1,19 +1,19 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
+#from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.model_selection import train_test_split
+#from sklearn.linear_model import LogisticRegression
+#from sklearn.metrics import accuracy_score
 import pandas as pd
 import numpy as np
 import re
 
 #https://365datascience.com/tutorials/python-tutorials/Review-analysis-with-python/
 
-dfReviews = pd.read_csv('HC code\Week 8\CSV files\Bol_com_reviews_metSterren.csv')
+dfReviews = pd.read_csv('C:\\Users\\Burto\\Downloads\\GO-databases DEDS-week 4 & 5\\HC code\\Week 8\\CSV files\\Bol_com_reviews_metSterren.csv', on_bad_lines='skip')
 
 df = dfReviews.loc[:,['inhoud','Review']]
 print(df.head())
 
-print('Amount of rows:' + len(df.index))
+print('Amount of rows:' + str(len(dfReviews.index)))
 
 def create_sentiment(Review):
     if Review=="['1']" or Review=="['2']":
@@ -32,24 +32,27 @@ def clean_data(review):
     return(no_digits)
 
 print(df['Review'][0])
-df['Review'] = df['Review'.apply(clean_data)]
+df['Review'] = df['Review'].apply(clean_data)
 print(df.head())
 print(df['Review'][0])
 
-#Term Frequency -> inverse document frequency
-tfidf = TfidfVectorizer(
-            strip_accents=None,
-            lowercase=False,
-            preprocessor=None)
-X = tfidf.fit_transform(df['Review'])
-
-#Step 5: Building and Evaluating the Machine Learning Model
-y = df['sentiment']
-X_train, X_test, y_train, y_test = train_test_split(X,y)
-
-lr = LogisticRegression(solver='liblinear')
-lr.fit(X_train, y_train)#fit model
-preds = lr.predict(X_test) #make predictions
-
-#evaluate the performance
-accuracy_score(preds, y_test)
+df.to_csv('BolSentiment.csv', index=False)
+#
+##Term Frequency -> inverse document frequency
+#tfidf = TfidfVectorizer(
+#            strip_accents=None,
+#            lowercase=False,
+#            preprocessor=None,
+#            stop_words='dutch')
+#X = tfidf.fit_transform(df['Review'])
+#
+##Step 5: Building and Evaluating the Machine Learning Model
+#y = df['sentiment']
+#X_train, X_test, y_train, y_test = train_test_split(X,y)
+#
+#lr = LogisticRegression(solver='liblinear')
+#lr.fit(X_train, y_train)#fit model
+#preds = lr.predict(X_test) #make predictions
+#
+##evaluate the performance
+#accuracy_score(preds, y_test)
