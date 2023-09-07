@@ -72,7 +72,3 @@ for i in range(0, num_pages, pages_per_thread):
 
 for t in threads:
     t.join()
-
-jsonfile = open("jsonoutput.json", "w")
-jsonfile.write(json.loads(output_array))
-jsonfile.close()
